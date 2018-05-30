@@ -34,6 +34,8 @@
 
 - Mimicking human camera operators, WACV'15 [[Paper]](https://pdfs.semanticscholar.org/e73b/4b7c48a4aeca81ec132e9e147dc19d103ded.pdf)
 
+- Quality vs Quantity”- Improved Shot Prediction in Soccer using Strategic Features from Spatiotemporal Data-Paper, MIT Sloan Sports Analytics Conference'15 [[Paper]](https://s3-us-west-1.amazonaws.com/disneyresearch/wp-content/uploads/20150308192147/Quality-vs-Quantity%E2%80%9D-Improved-Shot-Prediction-in-Soccer-using-Strategic-Features-from-Spatiotemporal-Data-Paper.pdf)
+
 
 
 ### 2014
