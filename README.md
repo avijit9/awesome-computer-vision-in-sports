@@ -37,9 +37,20 @@
 - Quality vs Quantity”- Improved Shot Prediction in Soccer using Strategic Features from Spatiotemporal Data-Paper, MIT Sloan Sports Analytics Conference'15 [[Paper]](https://s3-us-west-1.amazonaws.com/disneyresearch/wp-content/uploads/20150308192147/Quality-vs-Quantity%E2%80%9D-Improved-Shot-Prediction-in-Soccer-using-Strategic-Features-from-Spatiotemporal-Data-Paper.pdf)
 
 
-
 ### 2014
 
-- Detecting and tracking sports players with random forests and context-conditioned motion models, CVPRW'16 [[Paper]](https://pdfs.semanticscholar.org/3099/615de73bb1d6442ce29dc9959ddb91cfc282.pdf)
-
 - How to get an open shot: Analyzing team movement in basketball using tracking data, MIT SLOAN'14 [[Paper]](https://s3-us-west-1.amazonaws.com/disneyresearch/wp-content/uploads/20141125014436/How-to-Get-an-Open-Shot-Analyzing-Team-Movement-in-Basketball-using-Tracking-Data-Paper.pdf)
+
+### 2013
+
+- Take your eyes off the ball: Improving ball-tracking by focusing on team play, CVIU'13 [[Paper]](https://infoscience.epfl.ch/record/185107/files/top_infosci_1.pdf)
+
+- Detecting and tracking sports players with random forests and context-conditioned motion models, CVPR'13 [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Liu_Tracking_Sports_Players_2013_CVPR_paper.pdf)
+
+- Representing and discovering adversarial team behaviors using player roles, CVPR'13 [[Paper]](http://openaccess.thecvf.com/content_cvpr_2013/papers/Lucey_Representing_and_Discovering_2013_CVPR_paper.pdf)
+
+- Recognising team activities from noisy data, CVPRW'13 [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_workshops_2013/W19/papers/Bialkowski_Recognising_Team_Activities_2013_CVPR_paper.pdf)
+
+### 2012
+
+- Point-less calibration: Camera parameters from gradient-based alignment to edge images, WACV'12 [[Paper]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6163012)
