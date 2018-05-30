@@ -9,7 +9,7 @@
 
 -  Towards Structured Analysis of Broadcast Badminton Videos, WACV'18 [[Paper]](http://cvit.iiit.ac.in/images/ConferencePapers/2018/badminton_analytics.pdf)
 
-- Forecasting Hands and Objects in Future Frames, CVPRW'18 [[Paper]](https://arxiv.org/pdf/1804.03247.pdf)
+- Fine-grained Activity Recognition in Baseball Videos, CVPRW'18 [[Paper]](https://arxiv.org/pdf/1804.03247.pdf)
 
 
 ### 2017
