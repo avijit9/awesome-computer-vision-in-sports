@@ -5,6 +5,9 @@
 
 ### 2018
 
+
+- Soccer on Your Tabletop, CVPR'18 [[Paper]](https://grail.cs.washington.edu/projects/soccer/soccer_on_your_tabletop.pdf)
+
 - Egocentric Basketball Motion Planning From a Single First-Person Image, CVPR'18 [[Paper]](https://arxiv.org/pdf/1803.01413)
 
 -  Towards Structured Analysis of Broadcast Badminton Videos, WACV'18 [[Paper]](http://cvit.iiit.ac.in/images/ConferencePapers/2018/badminton_analytics.pdf)
