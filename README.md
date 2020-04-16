@@ -3,6 +3,12 @@
 
 ## Papers by the year of publications
 
+### 2020
+
+- Actor-Transformers for Group Activity Recognition, CVPR'20 [[Paper]](http://isis-data.science.uva.nl/cgmsnoek/pub/gavrilyuk-transformers-cvpr2020.pdf)
+
+- Progressive Relation Learning for Group Activity Recognition, CVPR'20 [[Paper]](https://arxiv.org/pdf/1908.02948.pdf)
+
 ### 2018
 
 
