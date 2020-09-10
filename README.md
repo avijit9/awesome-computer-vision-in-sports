@@ -20,6 +20,8 @@
 
 - Fine-grained Activity Recognition in Baseball Videos, CVPRW'18 [[Paper]](https://arxiv.org/pdf/1804.03247.pdf)
 
+- Where Will They Go? Predicting Fine-Grained Adversarial Multi-Agent Motion using Conditional Variational Autoencoders, ECCV'18 [[Paper]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Panna_Felsen_Where_Will_They_ECCV_2018_paper.pdf)
+
 
 ### 2017
 
