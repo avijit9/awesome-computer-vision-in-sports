@@ -11,7 +11,6 @@
 
 ### 2018
 
-
 - Soccer on Your Tabletop, CVPR'18 [[Paper]](https://grail.cs.washington.edu/projects/soccer/soccer_on_your_tabletop.pdf)
 
 - Egocentric Basketball Motion Planning From a Single First-Person Image, CVPR'18 [[Paper]](https://arxiv.org/pdf/1803.01413)
@@ -20,6 +19,7 @@
 
 - Fine-grained Activity Recognition in Baseball Videos, CVPRW'18 [[Paper]](https://arxiv.org/pdf/1804.03247.pdf)
 
+- Where Will They Go? Predicting Fine-Grained Adversarial Multi-Agent Motion using Conditional Variational Autoencoders, ECCV'18 [[Paper]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Panna_Felsen_Where_Will_They_ECCV_2018_paper.pdf)
 
 ### 2017
 
@@ -29,7 +29,9 @@
 
 - SmartTennisTV: An automatic indexing system for tennis, NCVPRIPG'17 [[Paper]](https://researchweb.iiit.ac.in/~anurag.ghosh/static/smarttennistv-automatic-indexing.pdf)
 
-- Social Scene Understanding: End-to-End Multi-Person Action Localization and Collective Activity Recognition, CVPR'16 [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Bagautdinov_Social_Scene_Understanding_CVPR_2017_paper.pdf)
+- Social Scene Understanding: End-to-End Multi-Person Action Localization and Collective Activity Recognition, CVPR'17 [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Bagautdinov_Social_Scene_Understanding_CVPR_2017_paper.pdf)
+
+- Coordinated Multi-Agent Imitation Learning, ICML'17 [[Paper]](http://proceedings.mlr.press/v70/le17a/le17a.pdf)
 
 ### 2016
 
@@ -46,7 +48,6 @@
 - Mimicking human camera operators, WACV'15 [[Paper]](https://pdfs.semanticscholar.org/e73b/4b7c48a4aeca81ec132e9e147dc19d103ded.pdf)
 
 - Quality vs Quantity”- Improved Shot Prediction in Soccer using Strategic Features from Spatiotemporal Data-Paper, MIT Sloan Sports Analytics Conference'15 [[Paper]](https://s3-us-west-1.amazonaws.com/disneyresearch/wp-content/uploads/20150308192147/Quality-vs-Quantity%E2%80%9D-Improved-Shot-Prediction-in-Soccer-using-Strategic-Features-from-Spatiotemporal-Data-Paper.pdf)
-
 
 ### 2014
 
