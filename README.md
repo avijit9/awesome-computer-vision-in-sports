@@ -15,6 +15,15 @@
 
 - As Seen on TV: Automatic Basketball Video Production using Gaussian-based Actionness and Game States Recognition, CVPRW'20 [[Paper]](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w53/Quiroga_As_Seen_on_TV_Automatic_Basketball_Video_Production_Using_Gaussian-Based_CVPRW_2020_paper.pdf)
 
+- Decoupling Video and Human Motion: Towards Practical Event Detection in Athlete Recordings, CVPRW'20 [[Paper]](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w53/Einfalt_Decoupling_Video_and_Human_Motion_Towards_Practical_Event_Detection_in_CVPRW_2020_paper.pdf)
+
+- Utilizing Mask R-CNN for Waterline Detection in Canoe Sprint Video Analysis, CVPRW'20 [[Paper]](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w53/von_Braun_Utilizing_Mask_R-CNN_for_Waterline_Detection_in_Canoe_Sprint_Video_CVPRW_2020_paper.pdf)
+
+### 2019
+
+- Learning Actor Relation Graphs for Group Activity Recognition, CVPR'19 [[Paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wu_Learning_Actor_Relation_Graphs_for_Group_Activity_Recognition_CVPR_2019_paper.pdf)
+
+
 ### 2018
 
 - Soccer on Your Tabletop, CVPR'18 [[Paper]](https://grail.cs.washington.edu/projects/soccer/soccer_on_your_tabletop.pdf)
@@ -72,3 +81,9 @@
 ### 2012
 
 - Point-less calibration: Camera parameters from gradient-based alignment to edge images, WACV'12 [[Paper]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6163012)
+
+
+## Datasets Available
+
+[1] Volleyball Dataset [[Link]](https://github.com/mostafa-saad/deep-activity-rec)
+
