@@ -9,6 +9,12 @@
 
 - Progressive Relation Learning for Group Activity Recognition, CVPR'20 [[Paper]](https://arxiv.org/pdf/1908.02948.pdf)
 
+- Group Activity Detection from Trajectory and Video Data in Soccer, CVPRW'20 [[Paper]] (https://openaccess.thecvf.com/content_CVPRW_2020/papers/w53/Sanford_Group_Activity_Detection_From_Trajectory_and_Video_Data_in_Soccer_CVPRW_2020_paper.pdf)
+
+- FALCONS: FAst Learner-grader for CONtorted poses in Sports, CVPRW'20 [[Paper]](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w53/Nekoui_FALCONS_FAst_Learner-Grader_for_CONtorted_Poses_in_Sports_CVPRW_2020_paper.pdf)
+
+- As Seen on TV: Automatic Basketball Video Production using Gaussian-based Actionness and Game States Recognition, CVPRW'20 [[Paper]] (https://openaccess.thecvf.com/content_CVPRW_2020/papers/w53/Quiroga_As_Seen_on_TV_Automatic_Basketball_Video_Production_Using_Gaussian-Based_CVPRW_2020_paper.pdf)
+
 ### 2018
 
 - Soccer on Your Tabletop, CVPR'18 [[Paper]](https://grail.cs.washington.edu/projects/soccer/soccer_on_your_tabletop.pdf)
