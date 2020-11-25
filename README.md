@@ -19,6 +19,8 @@
 
 - Utilizing Mask R-CNN for Waterline Detection in Canoe Sprint Video Analysis, CVPRW'20 [[Paper]](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w53/von_Braun_Utilizing_Mask_R-CNN_for_Waterline_Detection_in_Canoe_Sprint_Video_CVPRW_2020_paper.pdf)
 
+- TTNet: Real-time temporal and spatial video analysis of table tennis, CVPRW'20 [[Paper]](https://arxiv.org/pdf/2004.09927.pdf)
+
 ### 2019
 
 - Learning Actor Relation Graphs for Group Activity Recognition, CVPR'19 [[Paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wu_Learning_Actor_Relation_Graphs_for_Group_Activity_Recognition_CVPR_2019_paper.pdf)
