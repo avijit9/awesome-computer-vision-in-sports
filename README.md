@@ -3,6 +3,20 @@
 
 ## Papers by the year of publications
 
+### 2021
+
+- LoL-V2T: Large-Scale Esports Video Description Dataset, CVPRW'21 [[Paper]](https://openaccess.thecvf.com/content/CVPR2021W/CVSports/papers/Tanaka_LoL-V2T_Large-Scale_Esports_Video_Description_Dataset_CVPRW_2021_paper.pdf)
+- Contrastive Learning for Sports Video: Unsupervised Player Classification, CVPRW'21  [[Paper]](https://openaccess.thecvf.com/content/CVPR2021W/CVSports/papers/Koshkina_Contrastive_Learning_for_Sports_Video_Unsupervised_Player_Classification_CVPRW_2021_paper.pdf)
+- Automated Tackle Injury Risk Assessment in Contact-Based Sports - A Rugby Union Example, CVPRW'21  [[Paper]](https://openaccess.thecvf.com/content/CVPR2021W/CVSports/papers/Martin_Automated_Tackle_Injury_Risk_Assessment_in_Contact-Based_Sports_-_A_CVPRW_2021_paper.pdf)
+- Toward Improving the Visual Characterization of Sport Activities With Abstracted Scene Graphs, CVPRW'21 [[Paper]] (https://openaccess.thecvf.com/content/CVPR2021W/CVSports/papers/Rahimi_Toward_Improving_the_Visual_Characterization_of_Sport_Activities_With_Abstracted_CVPRW_2021_paper.pdf)
+- Detecting and Matching Related Objects With One Proposal Multiple Predictions, CVPRW'21 [[Paper]](https://openaccess.thecvf.com/content/CVPR2021W/CVSports/papers/Liu_Detecting_and_Matching_Related_Objects_With_One_Proposal_Multiple_Predictions_CVPRW_2021_paper.pdf)
+- SoccerNet-v2: A Dataset and Benchmarks for Holistic Understanding of Broadcast Soccer Videos [[Paper]](https://openaccess.thecvf.com/content/CVPR2021W/CVSports/papers/Deliege_SoccerNet-v2_A_Dataset_and_Benchmarks_for_Holistic_Understanding_of_Broadcast_CVPRW_2021_paper.pdf)
+- Table Tennis Stroke Recognition Using Two-Dimensional Human Pose Estimation [[Paper]](https://openaccess.thecvf.com/content/CVPR2021W/CVSports/papers/Kulkarni_Table_Tennis_Stroke_Recognition_Using_Two-Dimensional_Human_Pose_Estimation_CVPRW_2021_paper.pdf)
+- Puck Localization and Multi-Task Event Recognition in Broadcast Hockey Videos [[Paper]](https://openaccess.thecvf.com/content/CVPR2021W/CVSports/papers/Giancola_Temporally-Aware_Feature_Pooling_for_Action_Spotting_in_Soccer_Broadcasts_CVPRW_2021_paper.pdf)
+- Automatic Play Segmentation of Hockey Videos [[Paper]](https://openaccess.thecvf.com/content/CVPR2021W/CVSports/papers/Pidaparthy_Automatic_Play_Segmentation_of_Hockey_Videos_CVPRW_2021_paper.pdf)
+- DeepDarts: Modeling Keypoints as Objects for Automatic Scorekeeping in Darts Using a Single Camera [[Paper]](https://openaccess.thecvf.com/content/CVPR2021W/CVSports/papers/McNally_DeepDarts_Modeling_Keypoints_as_Objects_for_Automatic_Scorekeeping_in_Darts_CVPRW_2021_paper.pdf)
+- Camera Calibration and Player Localization in SoccerNet-v2 and Investigation of Their Representations for Action Spotting [[Paper]](https://openaccess.thecvf.com/content/CVPR2021W/CVSports/papers/Cioppa_Camera_Calibration_and_Player_Localization_in_SoccerNet-v2_and_Investigation_of_CVPRW_2021_paper.pdf)
+
 ### 2020
 
 - Actor-Transformers for Group Activity Recognition, CVPR'20 [[Paper]](http://isis-data.science.uva.nl/cgmsnoek/pub/gavrilyuk-transformers-cvpr2020.pdf)
