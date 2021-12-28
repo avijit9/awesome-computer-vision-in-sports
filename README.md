@@ -52,6 +52,9 @@
 
 - Where Will They Go? Predicting Fine-Grained Adversarial Multi-Agent Motion using Conditional Variational Autoencoders, ECCV'18 [[Paper]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Panna_Felsen_Where_Will_They_ECCV_2018_paper.pdf)
 
+- Fine-grained Video Captioning for Sports Narrative, ECCV'18 [[Paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Yu_Fine-Grained_Video_Captioning_CVPR_2018_paper.pdf)
+
+
 ### 2017
 
 - What will Happen Next? Forecasting Player Moves in Sports Videos, ICCV'17 [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Felsen_What_Will_Happen_ICCV_2017_paper.pdf)
