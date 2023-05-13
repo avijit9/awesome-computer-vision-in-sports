@@ -3,6 +3,11 @@
 
 ## Papers by the year of publications
 
+### 2022
+
+- SoccerNet 2022 Challenges Results, ACM MMSports'22 [[Paper]](https://arxiv.org/abs/2210.02365)
+- DeepSportradar-v1: Computer Vision Dataset for Sports Understanding with High Quality Annotations, ACM MMSports'22 [[Paper]](https://arxiv.org/abs/2208.08190)
+
 ### 2021
 
 - LoL-V2T: Large-Scale Esports Video Description Dataset, CVPRW'21 [[Paper]](https://openaccess.thecvf.com/content/CVPR2021W/CVSports/papers/Tanaka_LoL-V2T_Large-Scale_Esports_Video_Description_Dataset_CVPRW_2021_paper.pdf)
