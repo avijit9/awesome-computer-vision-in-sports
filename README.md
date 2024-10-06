@@ -3,6 +3,12 @@
 
 ## Papers by the year of publications
 
+### 2024
+- SoccerNet Game State Reconstruction: End-to-End Athlete Tracking and Identification on a Minimap, CVPRW'24 [[Paper]](https://arxiv.org/abs/2404.11335)
+
+### 2023
+- Multi-task Learning for Joint Re-identification, Team Affiliation, and Role Classification for Sports Visual Tracking, ACM MMSports'23 [[Paper]](https://arxiv.org/html/2401.09942v1)
+
 ### 2022
 
 - SoccerNet 2022 Challenges Results, ACM MMSports'22 [[Paper]](https://arxiv.org/abs/2210.02365)
