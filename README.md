@@ -6,6 +6,7 @@
 ### 2024
 - SoccerNet Game State Reconstruction: End-to-End Athlete Tracking and Identification on a Minimap, CVPRW'24 [[Paper]](https://arxiv.org/abs/2404.11335)
 - Towards Universal Soccer Video Understanding, Preprint [[Paper]](https://arxiv.org/pdf/2412.01820)
+- MatchTime: Towards Automatic Soccer Game Commentary Generation, Preprint [[Ppaer]](https://arxiv.org/pdf/2406.18530)
 
 ### 2023
 - Multi-task Learning for Joint Re-identification, Team Affiliation, and Role Classification for Sports Visual Tracking, ACM MMSports'23 [[Paper]](https://arxiv.org/html/2401.09942v1)
