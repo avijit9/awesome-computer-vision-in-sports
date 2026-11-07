@@ -4,6 +4,7 @@
 ## Papers by the year of publications
 
 ### 2024
+- Dual DETRs for Multi-Label Temporal Action Detection, CVPR'24 [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Zhu_Dual_DETRs_for_Multi-Label_Temporal_Action_Detection_CVPR_2024_paper.html) [[arXiv]](https://arxiv.org/abs/2404.00653)
 - SoccerNet Game State Reconstruction: End-to-End Athlete Tracking and Identification on a Minimap, CVPRW'24 [[Paper]](https://arxiv.org/abs/2404.11335)
 - Towards Universal Soccer Video Understanding, Preprint [[Paper]](https://arxiv.org/pdf/2412.01820)
 - MatchTime: Towards Automatic Soccer Game Commentary Generation, Preprint [[Ppaer]](https://arxiv.org/pdf/2406.18530)
